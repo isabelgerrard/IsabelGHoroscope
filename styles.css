@@ -1,0 +1,22 @@
+/* style all h1, h2 and p elements */
+h1, h2, p {
+    text-align: center;
+    text-weight: bold;
+}
+
+
+body {
+    background-image: url(http://cdn.pcwallart.com/images/starry-night-wallpaper-2.jpg);
+    color: #9bf1fb;
+    text-align: center;
+    font-size: 50px;
+}
+h1 {
+    color: white;
+    font-size: 37px;
+}
+p {
+    color: White;
+    font-size: 30px;
+    font-style: italic;
+}
